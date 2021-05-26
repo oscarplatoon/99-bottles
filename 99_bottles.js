@@ -1,10 +1,9 @@
-var prompt = require('prompt');
-prompt.start();
+//var prompt = require('prompt');
+//prompt.start();
 
 function bottleSong() {
 
   //prompt.get(['input']), function (err,result){
-
     //const input = result.input;
     //console.log(input);
 
