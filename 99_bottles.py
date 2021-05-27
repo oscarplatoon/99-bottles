@@ -16,4 +16,4 @@ def	bottle_song(num):
 
 
 
-bottle_song(10)
+bottle_song(9)
