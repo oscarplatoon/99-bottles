@@ -1,5 +1,8 @@
-def bottle_song():
+def bottle_song(num):
 	# write your code here!
+	bottle_num = num;
+	output = '';
 
 
-	bottle_song()
+
+print(bottle_song(10));
