@@ -18,4 +18,4 @@ def bottle_song(num):
 # bottle_song(0)
 # bottle_song(-1)
 # bottle_song(99)
-# bottle_song(3)
+bottle_song(3)
